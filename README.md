@@ -7,16 +7,16 @@ Repositório para arquivar soluções dos sites [Frontend Mentor](https://www.fr
 ### Pasta
 
 #### Fácil
-[ ] [Nome do desafio]() - [Solução]() - ✔️ *RESOLVIDO*
-[ ] [Nome do desafio]() - [Solução]() - ⏳ *EM PROGRESSO*
+- [ ] [Nome do desafio]() - [Solução]() - ✔️ *RESOLVIDO*
+- [ ] [Nome do desafio]() - [Solução]() - ⏳ *EM PROGRESSO*
 
 #### Intermediário
-[ ] [Nome do desafio]() - [Solução]() - ✔️ *RESOLVIDO*
-[ ] [Nome do desafio]() - [Solução]() - ⏳ *EM PROGRESSO*
+- [ ] [Nome do desafio]() - [Solução]() - ✔️ *RESOLVIDO*
+- [ ] [Nome do desafio]() - [Solução]() - ⏳ *EM PROGRESSO*
 
 #### Difícil
-[ ] [Nome do desafio]() - [Solução]() - ✔️ *RESOLVIDO*
-[ ] [Nome do desafio]() - [Solução]() - ⏳ *EM PROGRESSO*
+- [ ] [Nome do desafio]() - [Solução]() - ✔️ *RESOLVIDO*
+- [ ] [Nome do desafio]() - [Solução]() - ⏳ *EM PROGRESSO*
 
 ----
 
