@@ -4,19 +4,25 @@ Repositório para arquivar soluções dos sites [Frontend Mentor](https://www.fr
 
 ## Exemplo de modelo para estrutura do repositório:
 
-### Pasta
+### Pasta pai
 
 #### Fácil
-- [ ] [Nome do desafio]() - [Solução]() - ✔️ *RESOLVIDO*
-- [ ] [Nome do desafio]() - [Solução]() - ⏳ *EM PROGRESSO*
+- [ ] [Desafio X]()
+-   [ ] [Solução 1]() - ✔️ *RESOLVIDO* por [Fulano de Tal]()
+-   [ ] [Solução 2]() - ✔️ *RESOLVIDO* por [Ciclano de Tal]()
+- [ ] [Desafio Y]() - ⏳ *EM PROGRESSO*
 
 #### Intermediário
-- [ ] [Nome do desafio]() - [Solução]() - ✔️ *RESOLVIDO*
-- [ ] [Nome do desafio]() - [Solução]() - ⏳ *EM PROGRESSO*
+- [ ] [Desafio X]()
+-   [ ] [Solução 1]() - ✔️ *RESOLVIDO* por [Fulano de Tal]()
+-   [ ] [Solução 2]() - ✔️ *RESOLVIDO* por [Ciclano de Tal]()
+- [ ] [Desafio Y]() - ⏳ *EM PROGRESSO*
 
 #### Difícil
-- [ ] [Nome do desafio]() - [Solução]() - ✔️ *RESOLVIDO*
-- [ ] [Nome do desafio]() - [Solução]() - ⏳ *EM PROGRESSO*
+- [ ] [Desafio X]()
+-   [ ] [Solução 1]() - ✔️ *RESOLVIDO* por [Fulano de Tal]()
+-   [ ] [Solução 2]() - ✔️ *RESOLVIDO* por [Ciclano de Tal]()
+- [ ] [Desafio Y]() - ⏳ *EM PROGRESSO*
 
 ----
 
