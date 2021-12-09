@@ -7,21 +7,21 @@ Repositório para arquivar soluções dos sites [Frontend Mentor](https://www.fr
 ### Pasta pai
 
 #### Fácil
-- [ ] [Desafio X]()
-- * [ ] [Solução 1]() - ✔️ *RESOLVIDO* por [Fulano de Tal]()
-- * [ ] [Solução 2]() - ✔️ *RESOLVIDO* por [Ciclano de Tal]()
+- [x] [Desafio X]()
+- * [x] [Solução 1]() - ✔️ *RESOLVIDO* por [Fulano de Tal]()
+- * [x] [Solução 2]() - ✔️ *RESOLVIDO* por [Ciclano de Tal]()
 - [ ] [Desafio Y]() - ⏳ *EM PROGRESSO*
 
 #### Intermediário
-- [ ] [Desafio X]()
-- * [ ] [Solução 1]() - ✔️ *RESOLVIDO* por [Fulano de Tal]()
-- * [ ] [Solução 2]() - ✔️ *RESOLVIDO* por [Ciclano de Tal]()
+- [x] [Desafio X]()
+- * [x] [Solução 1]() - ✔️ *RESOLVIDO* por [Fulano de Tal]()
+- * [x] [Solução 2]() - ✔️ *RESOLVIDO* por [Ciclano de Tal]()
 - [ ] [Desafio Y]() - ⏳ *EM PROGRESSO*
 
 #### Difícil
-- [ ] [Desafio X]()
-- * [ ] [Solução 1]() - ✔️ *RESOLVIDO* por [Fulano de Tal]()
-- * [ ] [Solução 2]() - ✔️ *RESOLVIDO* por [Ciclano de Tal]()
+- [x] [Desafio X]()
+- * [x] [Solução 1]() - ✔️ *RESOLVIDO* por [Fulano de Tal]()
+- * [x] [Solução 2]() - ✔️ *RESOLVIDO* por [Ciclano de Tal]()
 - [ ] [Desafio Y]() - ⏳ *EM PROGRESSO*
 
 ----
