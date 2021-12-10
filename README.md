@@ -28,7 +28,26 @@ Projetos de outras plataformas também podem ser implementados frente a apresent
 
 ### Depois de selecionado o projeto, o que faremos ❔
 
-Depois de selecionado
+Depois de selecionado o projeto/exercício pelo grupo, o procedimento dependerá se esse for relacionado ao [Frontend Mentor](https://www.frontendmentor.io/) ou ao [Codewars](https://www.codewars.com/).
+
+Cada projeto disponibilizado no [Frontend Mentor](https://www.frontendmentor.io/) prove um diretório que deve ser baixado antes de iniciar a execução do projeto. Nesse diretório fornecido são disponibilizadas as imagens necessárias para a execução do respectivo projeto e um arquivo README.md com as instruções principais. Um guia de corres e fontes também é disponibilizado. Assim, no caso do [Frontend Mentor](https://www.frontendmentor.io/), o participante deve baixar o diretório em sua máquina (dentro de um repositório associado ao seus github, mas exclusivo para os exercícios/projetos do Frontend Mentor) e seguir os passos disponibilizados.
+
+No caso do [Codewars](https://www.codewars.com/), os exercícios podem ser executados diretamente pelo navegador. Todavia, existe a possibilidade de desenvolve-los utilizando o VS Code na sua máquina e colar sua solução na página. Portanto, sugerimos que você desenvolva na sua máquina (dentro de um repositório associado ao seus github, mas exclusivo para os exercícios/projetos do Codewars) e depois você poderá colocar apenas a solução na plataforma do Codewars.
+
+Observação: Ao desenvolver os projetos/exercícios na sua máquina e vincular ao seu Github você estará expandindo o seu portifólio.
+
+## Depois de finalizar o projeto, como compartilho a minha solução ❔
+
+Após finalizar o projeto, o compartilhamento seguirá o mesmo padrão utilizado nos projetos entregues à Trybe. Cada um que queira compartilhar sua solução deverá:
+
+1. Clonar esse repositório
+2. Na sua máquina criar uma branch
+3. Adicionar a sua solução ao repositório
+   1. A solução deverá ser colocado na pasta com o nome do projeto, posicionada dentro da pasta Frontend-Mentor ou Codewars, dependendo da origem do projeto. Exemplo de endereço :
+      ~/frontendmentor-codewars/frontendmentor/nome-do-projeto/
+4. Depois, basta você realizar o seu pull request. Ao criar o pull request siga o seguinte padrão : **[FRONTEND MENTOR][nome do projeto][Nome da pessoa]** ou **[CODEWARS][nome do projeto][Nome da pessoa]**. Isso irá facilitar que outras pessoas encontrem soluções para os projetos de interesse no futuro.
+
+Existindo dúvidas para compartilhar suas soluções? Peça ajuda aos outros participantes 🐜.
 
 ## Exemplo de modelo para estrutura do repositório:
 
