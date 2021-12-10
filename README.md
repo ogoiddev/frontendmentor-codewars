@@ -14,6 +14,22 @@ A princípio, a intenção é de que sejam agendados intervalos para que os proj
 
 Apesar de incentivar o trabalho simultâneo dos participantes, visando facilitar a interação, nada impede que você desenvolva os projetos selecionados ao seu tempo e nos horários que você tiver disponibilidade. O importe é treinar e aprimorar as habilidades obtidas ao longo do curso.
 
+**OBSERVAÇÃO: Esse ambiente não é dedicado para a resolução dos projetos obrigatórios da Trybe. Essa prática inflinge os termos do Manual do Estudante da Trybe.**
+
+### Como os projetos serão selecionados ❔
+
+Os projetos/exercícios serão retirados, a princípio, dos sites sites [Frontend Mentor](https://www.frontendmentor.io/) e [Codewars](https://www.codewars.com/).
+
+No caso dos projetos relacionados ao [Frontend Mentor](https://www.frontendmentor.io/), a página oferece classificação de dificuldade. Assim, inicialmente os projetos mais simples (newbie) serão selecionados. A seleção será feita de acordo com o interesse dos participantes.
+
+No caso dos projetos relacionados ao [Codewars](https://www.codewars.com/), o nível de dificuldade dos problemas apresentados é crescente. Por isso, a princípio a sequência apresentada pela página poderá ser seguida.
+
+Projetos de outras plataformas também podem ser implementados frente a apresentação e interesse dos participantes.
+
+### Depois de selecionado o projeto, o que faremos ❔
+
+Depois de selecionado
+
 ## Exemplo de modelo para estrutura do repositório:
 
 ### Pasta pai
